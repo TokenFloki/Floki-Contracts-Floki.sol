@@ -1,11 +1,11 @@
 # Riku
-FlokiCoin is a decentralised token on BSC blockchain. Our mission is to recreate modern community driven by digital platform in a devolved manner.
-
-FlokiCoin community recognised that nationally and globally calculated traditional economic stability based on inflation and deflation of mainstream currency that control our livelihood and creates social disparity for generations, when one nation overdevelops and progress in their own economic sector and others under developed or under produce their wealth. This monetary inequality continues for the past few generations where people being forced to concentrate of rich , fame and wealth in one part of the planet , and lack of development and high inequality in the marginal regions.
-
-FlokiCoin supports decentralised community based platform without a third party control to create more equal distribution of people wealth and resources on a global scale. That’s why 10% of FlokiCoin will be donated to 2 charity organisations across the globe to fight against global warming . Recently we have witnessed - Lytton, a village in British Columbia, became the first place in Canada to record a temperature above 113 degrees Fahrenheit on Sunday, with the thermometer hitting 116 degrees. That’s why we love Elon Musk who started to show the world and business leaders that together with innovative technology like modern electric car , satellite and space mission can change the world for good and find another planet for our forever exitance .
-
-FlokiCoin will invest in our food chain by supporting farmers in poorer countries and work with 2 non profit originations to save endangered species .
-FlokiCoin community accepted that there are not many or shall we say adequate computer coding education system across the world therefore we want to create a global online platform where children from all backgrounds can learn computer coding free of cost between age 12-18 . All of this will create a FlokiCoin community where we can live without social disparity between us and live as more equal.
-
-FlokiCoin was deployed on 4th of July , 2021 and the max supply is 1 Sextillion . We don’t believe on pyramid offer to attract our holders to invest in FlokiCoin , instead we have decided to look into this in an intuitive way to start a decentralised community project with true purpose of charitable, technology and educational advancement to bring stability between in our traditional and modern economic and social system. 
+FlokiCoin Launched 13 July 2021 on BSC block chain with 10X faster block speed and gives economical
+gas fees for our holders.
+We are inspired by Elon Musk to bring better future and look forward to the next success.
+FlokiCoin is decentralized token and our AIM is to take the digital currency into it’s next level like all
+other cryptocurrency with loyalty reward to our holders . FlokiCoin is fan of BNB and Dogecoin .
+We also deeply passionate about our future and the planet we live , our home that’s why the entire
+FlokiCoin team is working in charitable way every day to save the planet from global warming impact
+while also explore our place in the uni verse.
+FlokiCoin has hyper deflationary and auto boost system that means holder will see FlokiCoin in their
+wallet grow forever by just hold the token .
